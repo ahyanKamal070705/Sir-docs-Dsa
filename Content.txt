@@ -1,0 +1,5 @@
+cd your-project-directory
+git status             # Check for modified files
+git add .              # Stage all changes
+git commit -m "Updated the feature in file X"  # Commit changes
+git push origin main   # Push to GitHub

@@ -1,4 +1,4 @@
-package HashMap phase-2;
+package HashMapphase2;
 
 public class sd27 {
     
